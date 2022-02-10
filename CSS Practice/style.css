@@ -1,0 +1,15 @@
+
+ #second {color:red}
+ #third {color:blue}
+ .color {text-decoration-color:green}
+ #seven {font-weight:bolder}
+ #five {font-size: 10px}
+ #six {text-align: center;}
+ #four {font-size: 28px}
+ #eight {font-family: cursive;}
+ #nine {font-size: 25px; color: orange; font-weight: bold;}
+ #one {color:green}
+.color {color:green}
+#styledImage {border-radius: 15px;
+    border: 10px solid;
+    border-color: darkblue}
